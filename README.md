@@ -6,6 +6,8 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://br.linkedin.com/in/gabryell-menezes-372a781a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Sobre mim
+
 - 🌱 Atualmente estou cursando Análise e Desenvolvimentos de Sistemas
 - 🤔 Estou sempre buscando mais conhecimento
 - 📫 Meu e-mail é: gabryell9900@gmail.com
