@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente estou cursando Análise e Desenvolvimentos de Sistemas
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 🤔 Estou sempre buscando mais conhecimento
 - 📫 Meu e-mail é: gabryell9900@gmail.com
 
